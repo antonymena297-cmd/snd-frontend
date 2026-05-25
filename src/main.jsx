@@ -1,3 +1,4 @@
+document.documentElement.lang = "es"; 
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import './i18n/index.js'
